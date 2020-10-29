@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+I like 1.Playing rugby
+       2.Riding my bike
+       3.Video games
